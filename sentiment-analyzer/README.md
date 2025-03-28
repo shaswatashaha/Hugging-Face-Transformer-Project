@@ -6,6 +6,7 @@ This project is a lightweight **Sentiment Analysis Web App** built using [Huggin
 
 ## 📸 Screenshot
 ![App Screenshot](sentiment_analyzer_1.png)
+
 ![App Screenshot](sentiment_analyzer_2.png)
 ---
 
