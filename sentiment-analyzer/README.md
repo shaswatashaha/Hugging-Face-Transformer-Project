@@ -6,7 +6,7 @@ This project is a lightweight **Sentiment Analysis Web App** built using [Huggin
 
 ## 📸 Screenshot
 Include a `screenshot.png` of your app's UI for better visual appeal.
-
+![App Screenshot](sentiment_analyzer_1.png)
 ---
 
 ## 🚀 Features
