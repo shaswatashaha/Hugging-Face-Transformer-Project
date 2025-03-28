@@ -4,16 +4,17 @@ This project is a lightweight **Sentiment Analysis Web App** built using [Huggin
 
 ---
 
+## 📸 Screenshot
+Include a `screenshot.png` of your app's UI for better visual appeal.
+
+---
+
 ## 🚀 Features
 
 - 🧪 Uses a pretrained Hugging Face model: `distilbert-base-uncased-finetuned-sst-2-english`
 - 🎨 Custom-styled Gradio interface with color-coded results and emojis
 - ⚡ Instant output for real-time sentiment detection
 - 🧠 Hugging Face pipeline abstracts the model backend (no explicit PyTorch or TensorFlow code)
-
----
-## 📸 Screenshot
-Include a `screenshot.png` of your app's UI for better visual appeal.
 
 ---
 
