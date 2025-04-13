@@ -37,8 +37,8 @@ This project is a lightweight **Sentiment Analysis Web App** built using [Huggin
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/shaswatashaha/huggingface-projects.git
-cd huggingface-projects/sentiment-analyzer
+git clone https://github.com/shaswatashaha/Hugging-Face-Transformer-Project.git
+cd Hugging-Face-Transformer-Project/sentiment-analyzer
 
 
 
