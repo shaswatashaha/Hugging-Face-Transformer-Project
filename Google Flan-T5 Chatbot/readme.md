@@ -35,15 +35,9 @@ The chatbot will be available at [http://localhost:7860](http://localhost:7860) 
 - Input + history is passed to the model for generating a response.
 - The output is decoded and cleaned before display.
 
-## 🗣️ Example
+## 📸 Screenshot
+![App Screenshot](Flan_T5_Chatbot.png)
 
-```
-User: What's the capital of France?
-Bot: The capital of France is Paris.
-
-User: And Germany?
-Bot: The capital of Germany is Berlin.
-```
 
 ## 📁 File Structure
 
