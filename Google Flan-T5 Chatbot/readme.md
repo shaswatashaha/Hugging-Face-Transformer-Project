@@ -24,6 +24,13 @@ Make sure you have the following packages installed:
 pip install transformers gradio torch
 ```
 
+## 📦 Installation
+
+### Clone the repository:
+```bash
+git clone https://github.com/shaswatashaha/Hugging-Face-Transformer-Project.git
+cd Hugging-Face-Transformer-Project/sentiment-analyzer
+
 ## 🚀 How to Run
 
 Clone the repository and run the Python file:
