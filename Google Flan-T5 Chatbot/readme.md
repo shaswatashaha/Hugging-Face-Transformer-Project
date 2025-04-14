@@ -24,17 +24,16 @@ Make sure you have the following packages installed:
 pip install transformers gradio torch
 ```
 
-
 ## 🚀 How to Run
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/shaswatashaha/Hugging-Face-Transformer-Project.git
-cd Hugging-Face-Transformer-Project
+cd Hugging-Face-Transformer-Project/Google Flan-T5 Chatbot
 ```
 
-Clone the repository and run the Python file:
+Run the Python file:
 
 ```bash
 python google_flan_chatbot.py
