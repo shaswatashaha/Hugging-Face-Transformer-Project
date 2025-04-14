@@ -39,11 +39,11 @@ The chatbot will be available at [http://localhost:7860](http://localhost:7860) 
 ![App Screenshot](Flan_T5_Chatbot.png)
 
 
-## 📁 File Structure
+## 🛠️ Tech Stack
 
-```
-google_flan_chatbot.py   # Main chatbot logic using Flan-T5 and Gradio
-```
+- **Python**
+- **Transformers (Hugging Face)**
+- **Gradio** (for UI)
 
 ## 📌 Notes
 
