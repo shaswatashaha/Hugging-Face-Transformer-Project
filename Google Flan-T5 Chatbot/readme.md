@@ -10,6 +10,12 @@ This is a simple conversational chatbot interface built with [Google's Flan-T5](
 - Simple and clean Gradio interface
 - Deployable on localhost or server
 
+## 🛠️ Tech Stack
+
+- **Python**
+- **Transformers (Hugging Face)**
+- **Gradio** (for UI)
+
 ## 📦 Dependencies
 
 Make sure you have the following packages installed:
@@ -38,12 +44,6 @@ The chatbot will be available at [http://localhost:7860](http://localhost:7860) 
 ## 📸 Screenshot
 ![App Screenshot](Flan_T5_Chatbot.png)
 
-
-## 🛠️ Tech Stack
-
-- **Python**
-- **Transformers (Hugging Face)**
-- **Gradio** (for UI)
 
 ## 📌 Notes
 
