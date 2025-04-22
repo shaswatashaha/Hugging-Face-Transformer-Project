@@ -67,8 +67,6 @@ These correspond to common bean leaf conditions and can help in early diagnosis.
 
 ---
 
----
-
 ## 🖼️ Screenshot
 
 Below is some examples of the Gradio interface after launching the app:
