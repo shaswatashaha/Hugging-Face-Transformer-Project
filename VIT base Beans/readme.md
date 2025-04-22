@@ -71,8 +71,8 @@ These correspond to common bean leaf conditions and can help in early diagnosis.
 
 Below is some examples of the Gradio interface after launching the app:
 
-![Gradio](TF_VIT_1_screenshot.png)
-![Gradio](TF_VIT_2_screenshot.png)
+![App Screenshot](TF_VIT_1_screenshot.png)
+![App Screenshot](TF_VIT_2_screenshot.png)
 
 
 ---
